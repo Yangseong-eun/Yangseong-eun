@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangseong-eun&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Yangseong-eun&show_icons=true">
+
+![](./profile-3d-contrib/profile-green-animate.svg)
