@@ -30,7 +30,7 @@ Kumoh National Institute of Technology, 235호
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-### I'M STUDYING...
+### I'M STUDYING꒰｡•`ｪ´•｡꒱۶
 Project in progress with Unity and Oculus Quest 2
 
 ### RECENTLY (〃´-`〃)♡
