@@ -28,7 +28,6 @@ Kumoh National Institute of Technology, 235호
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangseong-eun&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Yangseong-eun&show_icons=true">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### I'M STUDYING꒰｡•`ｪ´•｡꒱۶
 Project in progress with Unity and Oculus Quest 2
