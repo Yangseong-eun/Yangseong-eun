@@ -30,7 +30,7 @@ Kumoh National Institute of Technology, 235호
 
 
 ### I'M STUDYING꒰｡•`ｪ´•｡꒱۶
-Project in progress with Unity and Oculus Quest 2
+Project in progress with Unity and Oculus Quest 2 \n
 Developing virtual interview room
 
 ### RECENTLY (〃´-`〃)♡
