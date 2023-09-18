@@ -33,5 +33,5 @@ Kumoh National Institute of Technology, 235호
 Project in progress with Unity and Oculus Quest 2
 
 ### RECENTLY (〃´-`〃)♡
-2023년 하계학술대회 
+메타버스 환경에서의 가상 인터뷰를 위한 유니티 기반의 면접장 프로토 타입 개발
 
