@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'M learning... ෆ˃̶͈̑◡˂̶͈̑ෆ
-Kumoh National Institute of Technology, 235호
-
 
 ### MY SKILLദ്ദിᐢ. .ᐢ₎
 <div>
