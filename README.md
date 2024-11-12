@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 
 ### I'M STUDYING꒰｡•`ｪ´•｡꒱۶
-Project in progress with Unity and Oculus Quest 2
-
-Developing virtual interview room
+Unity
+Unreal
+Blender
 
 ### RECENTLY (〃´-`〃)♡
-메타버스 환경에서의 가상 인터뷰를 위한 유니티 기반의 면접장 프로토 타입 개발
+Metaverse&Unreal => virtual 공부중
 
